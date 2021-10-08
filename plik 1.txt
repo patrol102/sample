@@ -2,5 +2,6 @@ wpis sample 1
 wpis sample 2
 wpis sample 3
 
+dodanie wpisu 3 - na mastera 
 
 
