@@ -1,2 +1,4 @@
 pierwszy wpis zasilający
 drugi wpis
+ 
+zmieniam plik i robię pulla
