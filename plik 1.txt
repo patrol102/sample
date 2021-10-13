@@ -6,4 +6,6 @@ dodanie wpisu 3 - na mastera
 
 dodanie wpisu 4 na mastera po usunięciu brancha 
 
+zmiana 1 na branchu DWH-628 
+
 
