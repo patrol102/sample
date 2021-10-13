@@ -6,6 +6,10 @@ dodanie wpisu 3 - na mastera
 
 dodanie wpisu 4 na mastera po usunięciu brancha 
 
+<<<<<<< HEAD
 dodanie wpisu na DWH-630 przez sample 2
+=======
+zmiana 1 na branchu DWH-628 
+>>>>>>> origin/DWH-628
 
 
