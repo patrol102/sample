@@ -8,4 +8,5 @@ dodanie wpisu 4 na mastera po usunięciu brancha
 
 dodanie wpisu na DWH-630 przez sample 2
 
+wpis na master 
 
