@@ -12,4 +12,5 @@ dodanie wpisu na DWH-630 przez sample 2
 zmiana 1 na branchu DWH-628 
 >>>>>>> origin/DWH-628
 
+wpis na master 
 
